@@ -122,7 +122,7 @@ main{
 }
 .every{
     height: auto;
-    background-color: rgb(233, 27, 27);
+    background-color: rgb(250, 249, 249);
     width: 100%;
     margin-left: 24.79%;
 }
@@ -163,7 +163,7 @@ input[type=text]::placeholder{
     width: 1.80em;
     height: 5vh;
     margin-top: 19px;
-    margin-left: 90px;
+    margin-left: 95px;
 }
 .ppix{
     height: 6vh;
@@ -184,7 +184,7 @@ input[type=text]::placeholder{
     background-image: linear-gradient(to right,#111D55 , rgb(227, 227, 217));
     margin: auto;
     padding: 1.6em;
-    width: 100%;
+    width: 94.38%;
     left: 255.5px;
     margin-top: 25px;
 }

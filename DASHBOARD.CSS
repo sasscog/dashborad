@@ -122,8 +122,8 @@ main{
 }
 .every{
     height: auto;
-    background-color: white;
-    width: 76%;
+    background-color: rgb(233, 27, 27);
+    width: 100%;
     margin-left: 24.79%;
 }
 .search{
@@ -163,14 +163,14 @@ input[type=text]::placeholder{
     width: 1.80em;
     height: 5vh;
     margin-top: 19px;
-    margin-left: 50px;
+    margin-left: 90px;
 }
 .ppix{
     height: 6vh;
-    width: 40px;
+    width: 35px;
     margin-top: 17px;
     margin-left: 10px;
-    border-radius: 80px;
+    border-radius: 100px;
 }
 .user_name{
     margin-top: 20px;
@@ -184,7 +184,7 @@ input[type=text]::placeholder{
     background-image: linear-gradient(to right,#111D55 , rgb(227, 227, 217));
     margin: auto;
     padding: 1.6em;
-    width: 94.38%;
+    width: 100%;
     left: 255.5px;
     margin-top: 25px;
 }
